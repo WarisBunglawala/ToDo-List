@@ -26,4 +26,4 @@ Todo List is a JQuery based Web app that allows building a todo list and basic t
 <img src="Images/Image 2.png"><br>
 
 <p align="center">Image 3 - Small Screen View</p>
-<img src="Images/Image 3.png"><br>
+<img src="Images/Image 3.png" Width="300" Height="500"><br>
